@@ -53,4 +53,5 @@ int main()
         printf("Ordem decrescente: %d - %d - %d\n", maior, meio, menor);
     }
         return 0;
+        
 }
